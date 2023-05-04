@@ -1,4 +1,4 @@
-public class Continents {
+public class Continents2 {
 
     public static void main(String[] args) {
         // This program will print out a city and its country based on the value of continent
